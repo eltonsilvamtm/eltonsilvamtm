@@ -3,7 +3,6 @@
 - 👀 I’m interested in anything related to ML, AI, and NLP
 - 🌱 I’m currently learning Kubernetes, Terraform, Python, and Linux!
 - 💞️ I’m looking to collaborate on interesting projects involving NLP!
-- 📫 You can reach me at 2018322@student.cct.ie
 
 <!---
 eltonsilvamtm/eltonsilvamtm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
